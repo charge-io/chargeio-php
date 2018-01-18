@@ -38,4 +38,4 @@ POST the token ID you receive to your PHP script and then perform the charge:
 Documentation
 -----------
 
-The latest ChargeIO API documentation is available at https://chargeio.com/developers.
+The latest ChargeIO API documentation is available at https://chargeio.com/.
